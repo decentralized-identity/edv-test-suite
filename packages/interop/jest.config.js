@@ -2,10 +2,13 @@ module.exports = {
   reporters: [
     'default',
     [
-      './node_modules/jest-html-reporter',
+      'jest-html-reporters',
       {
-        pageTitle: 'Edv Interoperability',
-        outputPath: '../../docs/index.html',
+        pageTitle: 'Interop Test Suite',
+        // logoImgPath: './logo.png',
+        publicPath: '../../docs',
+        filename: 'index.html',
+        expand: true,
       },
     ],
   ],
