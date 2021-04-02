@@ -1,6 +1,8 @@
 # EDV Test Suites
 
-## [Latest Spec](https://identity.foundation/edv-spec)
+### [Latest Tests](https://identity.foundation/edv-test-suite)
+
+### [Latest Spec](https://identity.foundation/edv-spec)
 
 ## Related Repos
 
