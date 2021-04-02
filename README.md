@@ -1,5 +1,7 @@
 # EDV Test Suites
 
+[![Interoperability](https://github.com/decentralized-identity/edv-test-suite/actions/workflows/interop.yml/badge.svg)](https://github.com/decentralized-identity/edv-test-suite/actions/workflows/interop.yml)
+
 ### [Latest Tests](https://identity.foundation/edv-test-suite)
 
 ### [Latest Spec](https://identity.foundation/edv-spec)

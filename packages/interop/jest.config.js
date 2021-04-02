@@ -4,7 +4,7 @@ module.exports = {
     [
       'jest-html-reporters',
       {
-        pageTitle: 'Edv Interop',
+        pageTitle: 'Edv Interoperability',
         // logoImgPath: './logo.png',
         publicPath: '../../docs',
         filename: 'index.html',
